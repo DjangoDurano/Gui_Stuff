@@ -11,6 +11,7 @@ import tkinter.filedialog as fd
 
 replace = [("'", "’"), ("...", "…"), ("--", "–"), ("!?", "?!")]
 quotes = ("„", "“")
+# Change Prefix here. Will be added at the end of filename.
 prefix: str = '_fixed'
 
 
